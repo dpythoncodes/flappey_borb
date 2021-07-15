@@ -1,3 +1,5 @@
 workspace.code-workspace
 .git
 /Python*
+.idea/*
+/venv*
